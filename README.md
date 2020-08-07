@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/NLW.jpg" width="300px"/>
+    <img src="./images/NLW.jpg"/>
 </div>
 
 ## Next Level Week#02 🚀️
@@ -10,7 +10,6 @@
 
 <div align="center">
     <img src="./images/Capa-Web.png"/>
-    <img src="./images/Capa-Mobile.png"/>
 </div>
 
 Tecnologias usadas:
